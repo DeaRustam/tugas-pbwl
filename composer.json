@@ -1,0 +1,16 @@
+{
+    "name": "user/tugas-2",
+    "description": "Tugas 2 - Dea",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dea Lestari | 0702193196"
+        }
+    ],
+    "require": {}
+}
